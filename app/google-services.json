@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "735580204262",
+    "firebase_url": "https://ptixiakiergasia-c6788.firebaseio.com",
+    "project_id": "ptixiakiergasia-c6788",
+    "storage_bucket": "ptixiakiergasia-c6788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735580204262:android:ef51434faccb15e2",
+        "android_client_info": {
+          "package_name": "com.example.ptixiakiergasia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735580204262-1m5k00ti4pvgfjskmsio0nd6fjih3i74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ptixiakiergasia",
+            "certificate_hash": "f36531dd413c157865221fb2d4f7af1286c0412b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49INtJOPQ7ntAk7eKWe0x0e_tyO1Cpmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735580204262-8bb7q66i36kifqr3l5tk8eva8aptmgvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
